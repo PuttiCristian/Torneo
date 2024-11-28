@@ -9,5 +9,10 @@ package torneo;
  * @author cristian
  */
 public class Squadra {
+    public int nome;
+    
+    public Squadra(int nome) {
+        this.nome = nome;
+    }
     
 }
