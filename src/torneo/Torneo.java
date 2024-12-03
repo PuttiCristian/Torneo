@@ -15,7 +15,6 @@ public class Torneo {
      */
     public static void main(String[] args) {
         System.out.println("messaggio d'avvio");
-        System.out.println("arbitro");
         System.out.println("squadra");
     }
     
