@@ -15,4 +15,13 @@ public class Arbitro {
         this.nome = nome;
     }
     
+    public void inizioTorneo() {
+        String ms = "inizio torneo";
+        System.out.println(ms);
+    }
+    
+    public void fineTorneo() {
+        String ms = "fine torneo";
+        System.out.println(ms);
+    }
 }
