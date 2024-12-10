@@ -6,7 +6,8 @@ package torneo;
 
 /**
  *
- * @author cristian
+ * @author cristian Putti
+ * @see scheda esercitazione
  */
 public class Torneo {
 
