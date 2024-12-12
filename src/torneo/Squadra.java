@@ -29,6 +29,7 @@ public class Squadra implements Runnable {
             nPalleggi++;
             Thread.currentThread().yield();
         }
+         
     }
     
 }
